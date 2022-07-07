@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda Página!"
 ---
-Tu texto
+wena wena sapo ql
 Utiliza la flecha hacia la izquierda para volver!
